@@ -1,0 +1,44 @@
+﻿_id,Skala Usaha,Definisi,Satuan,"Pertanian, Kehutanan, dan Perikanan",Pertambangan dan Penggalian,Industri Pengolahan,"Pengadaan Listrik, Gas","Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Konstruksi,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",Transportasi dan Pegudangan,Penyediaan Akomodasi dan Makan Minum,Informasi dan Komunikasi,Jasa Keuangan dan Asuransi,Real Estat,Jasa Perusahaan,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Jasa Pendidikan,Jasa Kesehatan dan Kegiatan Sosial,Jasa Lainnya,Jumlah
+1,Mikro Lv 1,"""Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang rnemenuhi kriteria Usaha Mikro sebagaimana diatur
+daiam Peraturan Pemerintah nomor 7 Tahun 2021, yakni aset paling banyak 1 Milyar tidak termasuk tanah dan bangunan dan omset paling banyak 2 Milyar""
+Usaha Mikro diklasifikasikan menjadi 5 level berdasarkan hasil penjualan tahunan:
+Level 1 : 0-50juta
+Level 2 : 50-200juta
+Level 3 : 201-500juta
+Level 4 : 501juta-1miliar
+Level 5 : 1-2miliar		",usaha,6633,67,8553,474,206,387,23586,536,23447,330,16,21,240,8,284,180,33366,98334
+2,Mikro Lv 2,"""Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang rnemenuhi kriteria Usaha Mikro sebagaimana diatur
+daiam Peraturan Pemerintah nomor 7 Tahun 2021, yakni aset paling banyak 1 Milyar tidak termasuk tanah dan bangunan dan omset paling banyak 2 Milyar""
+Usaha Mikro diklasifikasikan menjadi 5 level berdasarkan hasil penjualan tahunan:
+Level 1 : 0-50juta
+Level 2 : 50-200juta
+Level 3 : 201-500juta
+Level 4 : 501juta-1miliar
+Level 5 : 1-2miliar		",usaha,95,2,1815,17,15,40,4275,96,1591,61,1,4,84,0,13,13,946,9068
+3,Mikro Lv 3,"""Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang rnemenuhi kriteria Usaha Mikro sebagaimana diatur
+daiam Peraturan Pemerintah nomor 7 Tahun 2021, yakni aset paling banyak 1 Milyar tidak termasuk tanah dan bangunan dan omset paling banyak 2 Milyar""
+Usaha Mikro diklasifikasikan menjadi 5 level berdasarkan hasil penjualan tahunan:
+Level 1 : 0-50juta
+Level 2 : 50-200juta
+Level 3 : 201-500juta
+Level 4 : 501juta-1miliar
+Level 5 : 1-2miliar		",usaha,17,1,329,0,6,9,855,31,215,10,2,0,16,0,3,3,143,1640
+4,Mikro Lv 4,"""Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang rnemenuhi kriteria Usaha Mikro sebagaimana diatur
+daiam Peraturan Pemerintah nomor 7 Tahun 2021, yakni aset paling banyak 1 Milyar tidak termasuk tanah dan bangunan dan omset paling banyak 2 Milyar""
+Usaha Mikro diklasifikasikan menjadi 5 level berdasarkan hasil penjualan tahunan:
+Level 1 : 0-50juta
+Level 2 : 50-200juta
+Level 3 : 201-500juta
+Level 4 : 501juta-1miliar
+Level 5 : 1-2miliar		",usaha,5,1,67,0,0,5,225,19,30,2,0,0,2,0,1,0,41,398
+5,Mikro Lv 5,"""Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang rnemenuhi kriteria Usaha Mikro sebagaimana diatur
+daiam Peraturan Pemerintah nomor 7 Tahun 2021, yakni aset paling banyak 1 Milyar tidak termasuk tanah dan bangunan dan omset paling banyak 2 Milyar""
+Usaha Mikro diklasifikasikan menjadi 5 level berdasarkan hasil penjualan tahunan:
+Level 1 : 0-50juta
+Level 2 : 50-200juta
+Level 3 : 201-500juta
+Level 4 : 501juta-1miliar
+Level 5 : 1-2miliar		",usaha,3,0,19,0,0,4,66,2,15,1,1,0,1,0,0,0,26,138
+6,Kecil,"Usaha Kecil adalah usaha yang asetnya lebih dari 1 Milyar - paling banyak 5 Milyar tidak termasuk tanah dan bangunan tempat usaha, omset 2 milyar sampai dengan paling banyak 15 milyar",usaha,7,0,19,0,0,2,105,5,9,2,0,3,1,0,0,0,15,168
+7,Menengah,"Usaha Menengah adalah usaha yang memiliki aset lebih dari 5 Milyar dan paling banyak 10 Milyar tidak termasuk tanah dan bangunan, omset 15 Milyar sampai dengan 50 Milyar",usaha,0,0,1,0,0,1,5,1,0,0,0,0,0,0,0,0,3,11
+8,Jumlah,"",usaha,6760,71,10803,491,227,448,29117,690,25307,406,20,28,344,8,301,196,34540,109757
